@@ -9,7 +9,7 @@ This is a simple React website to display Formula 1 driver data. (This tutorial 
 
 1. Clone the repo
     ```shell
-    git clone https://github.com/benskee/React_Boilerplate.git
+    git clone https://github.com/benskee/react_driver_standings.git
     ```
 
 2. Install packages
